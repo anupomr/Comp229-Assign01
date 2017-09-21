@@ -8,8 +8,24 @@
     <link href="Content/Assignment.css" rel="stylesheet" />
     <div class="jumbotron">
         <h2>Welcome in my homepage</h2>
-        <p>Anupom Roy Resume! </p>
-       
+        
+            <table class="nav-justified">
+                <tr>
+                    <td><img src="Images/resumeLogo.jpg" height= "250" width="250" /><br />My Resume</td>
+                    <td><div id="contact">
+        <img src="Images/Contact.png" height= "250" width="250" /><br />
+           My Contact Info
+            </div></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>&nbsp;</td>
+                </tr>
+            </table>
+            
+             
+        
+        
     </div>
 
     

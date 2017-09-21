@@ -7,4 +7,4 @@
 
 
 
-$("#accordion").accordion();
+//$("#accordion").accordion();

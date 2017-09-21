@@ -18,32 +18,45 @@
         Skilled with object oriented design. 
         Good verbal and written communication, time management and interpersonal skills.</p>
     <div id = "accordion" >
-			<h3> Key Competencies:</h3>
-			<div>Possess strong administration, organizing and time management skills, 
-			can work under pressure and deal with confidential matters; has in-depth knowledge of computers, 
-			networking, reporting and strong IT skills including e-mail, Internet, office, troubleshooting,
-			web developing and programming. I have good communication skills and possess a balanced and pleasing personality.
+			<h3> IT Trainer</h3>
+			<div>
+                <strong>Heritage Skills Development Center</strong><br />
+                Toronto – volunteer position   
+                <ul>
+                    <li>Facilitate classes of advance batches. </li>
+                    <li>Prepared assignment and solution for the student.</li>
+                    <li>Provided solution to the student lab problem.</li>
+                                        
+                </ul>
 			</div>
 			
-			<h3> Behaviour Activity </h3>
+			<h3> Jr. Programmer </h3>
 			<div>
-			I am confident in my ability to produce, and while I prepare for the worst, 
-			I do the work necessary to tilt the odds so that the best will happen.
-			I am successful with strong leadership and vision, one that recognizes and rewards performers.
+			<strong>UCEP-Bangladesh.</strong><br />
+                  
+                <ul>
+                    <li>Assisted the team to code ongoing project. </li>
+                    <li>Updated and expand existing programs.</li>
+                    <li>Written programs in a variety of computer languages.</li>
+                    <li>Debugged programs by testing for and fixing errors.</li>
+                                        
+                </ul>
 			</div> 
 			
-			<h3>I am studies </h3>
+			<h3>Tutor </h3>
 			<div>
-			    I am consistently growing and take the time to continue learning even though
-				it’s not a direct requirement of the job. I find that many times, 
-				my professional growth is based on what I study, 
-				both directly and indirectly related to work.
+			   <strong>NIIT Sylhet Center.</strong><br />
+                  
+                <ul>
+                    <li>Coordinated the classes of Software Engineering batches.</li>
+                    <li>Helped student to solve assignment.</li>
+                    <li>	Marinated CRUX, a software that provides solution to the students related requirements and is used at all NIIT centers worldwide.</li>
+                    <li>Debugged programs by testing for and fixing errors.</li>
+                                        
+                </ul>
 			</div>
-			<h3> I am hard worker </h3>
-			<div>I am modest, hard-working and consistently set firm goals for myself.
-			Then, once I’ve defined my benchmarks, 
-			I take the necessary steps to achieve those milestones.
-			</div>
+			
         </div>
 			<script src="Scripts/jquery-1.10.2.min.js"></script>
+    
 </asp:Content>
