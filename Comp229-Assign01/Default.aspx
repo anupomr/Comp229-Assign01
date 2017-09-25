@@ -11,9 +11,10 @@
         
             <table class="nav-justified">
                 <tr>
-                    <td><img src="Images/resumeLogo.jpg" height= "250" width="250" /><br />My Resume</td>
+                    <td><a href="About.aspx"><img src="Images/resumeLogo.jpg" height= "250" width="250" /></a><br />My Resume</td>
                     <td><div id="contact">
-        <img src="Images/Contact.png" height= "250" width="250" /><br />
+                        <a href="Contact.aspx">
+        <img src="Images/Contact.png" height= "250" width="250" /></a><br />
            My Contact Info
             </div></td>
                 </tr>

@@ -21,3 +21,8 @@
     position:relative;
     
 }*/
+label {
+    width: 250px;
+    float: left;
+    text-align: right;
+}
