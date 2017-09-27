@@ -23,7 +23,7 @@
 
     <form action="Default.aspx" method="post">
 <fieldset>
-<legend>Please Complete all the fields To contact </legend>
+<legend>Please complete fields to contact </legend>
 			<p>
 			    <label for="txtFName">Name:</label>
 			    <input id="txtFName" name="txtFName" size="25" tabindex="1" type="text" >
@@ -43,7 +43,7 @@
             
             
 		 <p>
-                <label><input id="submit" name="btnSubmit" tabindex="21" type="submit" value="Send Info"></label>
+                <label><input id="submit" name="btnSubmit" tabindex="21" type="submit" onClick="redirect()" value="Send Info"></label>
 
                 <label> <input id="clearForm" name="btnReset" tabindex="23" type="reset" value="Clear Form"></label>
             </p>

@@ -8,3 +8,7 @@
 
 
 //$("#accordion").accordion();
+function redirect() {
+    var url = "http://www.google.com";
+    window.open(url, '_top');
+}
