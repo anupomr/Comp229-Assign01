@@ -20,8 +20,8 @@
     </address>
 
     <!---------------------------------------------------------------->
-
-    <form action="Default.aspx" method="post">
+  
+    <div class="col-md-6">
 <fieldset>
 <legend>Please complete fields to contact </legend>
 			<p>
@@ -49,7 +49,7 @@
             </p>
 			</fieldset>
            
-</form>
+</div><div class="col-md-6"></div>
     <!---------------------------------------------------------------->
 
 

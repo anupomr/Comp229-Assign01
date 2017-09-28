@@ -31,3 +31,17 @@ fieldset {
     border-radius: 15px;
     box-shadow: 5px 5px 5px #FF0000;
 }
+#allPage {
+    width: 980px;
+    margin-right: auto;
+    margin-left: auto;
+    border: 3px solid #777201;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #777201;
+    padding: 8px;
+    background-color: #FF9966;
+    opacity: 0.9;
+}
+body {
+    background-color: #808080;
+}

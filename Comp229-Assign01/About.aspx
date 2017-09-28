@@ -15,6 +15,31 @@
         In addition, most of the time in my life I spend on programing. 
         Furthermore, software industry is booming and the industry need skill person.
         So, I decided software engineering as a career.</p>
+    <h3>Technical Proficiency</h3>
+    <div>
+                <strong>Programming Languages</strong><br />
+               
+                <ul>
+                    <li>C#, Java, JDBC, C++, ASP.NET, Oracle PL/SQL. </li>
+                    <li> J2EE, XML, PHP, Shell scripting, SQL Server 7.</li>
+                    <li>JavaScript, CSS, HTML, jQuery,DHTML, Front Page.</li>
+                                        
+                </ul>
+         <strong>Methodology</strong><br />
+               
+                <ul>
+                    <li>SDLC, Agile. </li>
+                    <li> Scrum, Waterfall.</li>
+                                                            
+                </ul>
+        <strong>Tools</strong><br />
+               
+                <ul>
+                    <li>Visual Paradigm, Visio-16. </li>
+                    <li> MS Project, MS Office.</li>
+                                                            
+                </ul>
+			</div>
     <div id = "accordion" >
 			<h3> IT Trainer</h3>
 			<div>
@@ -30,6 +55,7 @@
 			
 			<h3> Jr. Programmer </h3>
 			<div>
+              
 			<strong>UCEP-Bangladesh.</strong><br />
                   
                 <ul>
@@ -43,6 +69,7 @@
 			
 			<h3>Tutor </h3>
 			<div>
+              
 			   <strong>NIIT Sylhet Center.</strong><br />
                   
                 <ul>
@@ -55,6 +82,6 @@
 			</div>
 			
         </div>
-			<script src="Scripts/jquery-1.10.2.min.js"></script>
-    
+			<script src="Scripts/jquery-2.2.4.min.js"></script>
+      
 </asp:Content>

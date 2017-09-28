@@ -21,7 +21,8 @@
     <link href="Content/Assignment.css" rel="stylesheet" />
     
 </head>
-<body>
+<body >
+    <div id="allPage">
     <!-- reference of the image-->
     <!--http://www.improgrammer.net/-->
     <img id="logo" src="Images/SEP.png" height="200" width="600"/>
@@ -47,9 +48,9 @@
             </Scripts>
         </asp:ScriptManager>
 
-        <div class="navbar navbar-inverse navbar-fixed-top">
-            <div class="container">
-                <div class="navbar-header">
+        <div class="navbar navbar-inverse navbar-fixed-top ">
+            <div class="container bg-success">
+                <div class="navbar-header ">
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
@@ -57,7 +58,7 @@
                     </button>
                     <a class="navbar-brand" runat="server" href="~/">My Portfolio</a>
                 </div>
-                <div class="navbar-collapse collapse">
+                <div class="navbar-collapse collapse ">
                     <ul class="nav navbar-nav">
                         <li><a runat="server" href="~/"> <i class="fa fa-home" aria-hidden="true"> </i> Home</a></li>
                         <li><a runat="server" href="~/About"><i class="fa fa-file-o" aria-hidden="true"></i> Resume</a></li>
@@ -71,11 +72,12 @@
             </asp:ContentPlaceHolder>
             <hr />
             <footer>
-                <p>&copy; <%: DateTime.Now.Year %> - My ASP.NET Application</p>
+                <p>&copy; <%: DateTime.Now.Year %> - Anupom Roy COMP229-006  Centennial college</p>
             </footer>
         </div>
 
     </form>
+        </div>
     <script src="Scripts/jquery-2.2.4.min.js"></script>
     <script src="Scripts/Assignment01.js"></script>
 </body>

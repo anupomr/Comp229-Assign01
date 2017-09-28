@@ -6,7 +6,6 @@
 
 
 
-
 //$("#accordion").accordion();
 function redirect() {
     var url = "http://www.google.com";
