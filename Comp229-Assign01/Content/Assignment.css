@@ -26,11 +26,11 @@ label {
     float: left;
     text-align: right;
 }
-fieldset {
+/*fieldset {
     margin-bottom: 15px;
     border-radius: 15px;
     box-shadow: 5px 5px 5px #FF0000;
-}
+}*/
 #allPage {
     width: 980px;
     margin-right: auto;
@@ -39,9 +39,13 @@ fieldset {
     border-radius: 20px;
     box-shadow: 5px 5px 5px #777201;
     padding: 8px;
-    background-color: #FF9966;
+    //background-color: #FF9966;
+    background-color: azure;
     opacity: 0.9;
 }
 body {
-    background-color: #808080;
+    background-color: #B4B6B7;
 }
+/*.jumbotron {
+    background-color: #B5C7C5;
+}*/

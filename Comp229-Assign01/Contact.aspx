@@ -21,7 +21,7 @@
 
     <!---------------------------------------------------------------->
   
-    <div class="col-md-6">
+    <div >
 <fieldset>
 <legend>Please complete fields to contact </legend>
 			<p>
@@ -49,7 +49,8 @@
             </p>
 			</fieldset>
            
-</div><div class="col-md-6"></div>
+</div>
+    
     <!---------------------------------------------------------------->
 
 
