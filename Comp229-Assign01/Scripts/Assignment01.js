@@ -7,7 +7,9 @@
 
 
 //$("#accordion").accordion();
-function redirect() {
-    var url = "http://www.google.com";
-    window.open(url, '_top');
+/*function redirect() {
+    window.location.href = "Default.aspx";
 }
+document.getElementById("submit").onclick = function () {
+    location.href = "Default.aspx";
+};*/

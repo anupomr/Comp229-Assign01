@@ -41,8 +41,9 @@
                 </ul>
 			</div>
     <div id = "accordion" >
-			<h3> IT Trainer</h3>
+			<h3> Employment Experience</h3>
 			<div>
+                <strong>IT Trainer</strong><br />
                 <strong>Heritage Skills Development Center</strong><br />
                 Toronto – volunteer position   
                 <ul>
@@ -53,9 +54,9 @@
                 </ul>
 			</div>
 			
-			<h3> Jr. Programmer </h3>
+		
 			<div>
-              
+              <strong>Jr. Programmer</strong><br />
 			<strong>UCEP-Bangladesh.</strong><br />
                   
                 <ul>
@@ -67,9 +68,9 @@
                 </ul>
 			</div> 
 			
-			<h3>Tutor </h3>
+			
 			<div>
-              
+              <strong>Tutor </strong><br />
 			   <strong>NIIT Sylhet Center.</strong><br />
                   
                 <ul>

@@ -31,19 +31,22 @@
 			</p>
             <p>
                 <label for="txtAge">Contact Number:</label>
-                <input id="txtAge" name="txtAge" size="25" tabindex="3" type="number">
+                <input id="txtAge" name="txtAge"  tabindex="3" type="number">
                 <span id="msgAge"></span>
             </p>
 			
             <p>
                 <label for="txtMessage">Message:</label>
-                <input id="txtMessage" name="txtMessage" size="25" tabindex="5" type="text">
+                <!--input  name="TextBox"  tabindex="5" type="TextBox" TextMode="MultiLine"-->
+                <textarea id="txtMessage" rows="4" cols="50">
+
+                </textarea>
                 <span id="msgMessage"></span>
             </p>
             
             
 		 <p>
-                <label><input id="submit" name="btnSubmit" tabindex="21" type="submit" onClick="redirect()" value="Send Info"></label>
+                <label><input id="submit" name="btnSubmit" tabindex="21" type="button" value="Send Info"></label>
 
                 <label> <input id="clearForm" name="btnReset" tabindex="23" type="reset" value="Clear Form"></label>
             </p>
