@@ -19,7 +19,7 @@
         <strong>Personal:</strong> <a href="mailto:anupomr@gmail.com">anupomr@gmail.com</a>
     </address>
 
-    <!---------------------------------------------------------------->
+    <!------------------Form Control---------------------------------------------->
   
     <div >
 <fieldset>
@@ -37,35 +37,27 @@
 			
             <p>
                 <label for="txtMessage">Message:</label>
-                <!--input  name="TextBox"  tabindex="5" type="TextBox" TextMode="MultiLine"-->
                 <textarea id="txtMessage" rows="4" cols="50">
-
-                </textarea>
-                <span id="msgMessage"></span>
-            </p>
-            
-            
-		 <p>
-                <label><input id="submit" name="btnSubmit" tabindex="21" type="button" value="Send Info"></label>
-
-                <label> <input id="clearForm" name="btnReset" tabindex="23" type="reset" value="Clear Form"></label>
+                </textarea>                
+            </p>            
+		    <p>
+             <label for="btn btn-primary btn-lg"></label>
+             <a class="btn btn-primary btn-lg" href="Default.aspx" role="button">Send Info</a>               
             </p>
 			</fieldset>
            
-</div>
+    </div>
     
-    <!---------------------------------------------------------------->
 
-
-    <hr />
-  <strong>Keep Connected </strong> 
-    <br />
-    <a href="https://www.facebook.com/anupom77">
-    <img src="Images/fb.png" height= "70" width="70" /></a>
-    <a href="https://www.linkedin.com/in/anupom-roy-78a26a103/">
-    <img src="Images/LIn.png" height= "50" width="50" /></a> 
-    <a href="https://github.com/anupomr">
-    <img src="Images/github.png" height= "50" width="50" /></a>
-    <!--i class="fa fa-facebook-official" aria-hidden="true"></i!-->
+        <%--Keep Connected--%> 
+        <hr />
+        <strong>Keep Connected : </strong> 
+        <br />
+        <a href="https://www.facebook.com/anupom77">
+        <img src="Images/fb.png" height= "70" width="70" /></a>
+        <a href="https://www.linkedin.com/in/anupom-roy-78a26a103/">
+        <img src="Images/LIn.png" height= "50" width="50" /></a> 
+        <a href="https://github.com/anupomr">
+        <img src="Images/github.png" height= "50" width="50" /></a>
 
 </asp:Content>

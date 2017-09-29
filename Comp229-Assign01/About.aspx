@@ -76,7 +76,7 @@
                 <ul>
                     <li>Coordinated the classes of Software Engineering batches.</li>
                     <li>Helped student to solve assignment.</li>
-                    <li>	Marinated CRUX, a software that provides solution to the students related requirements and is used at all NIIT centers worldwide.</li>
+                    <li>Marinated CRUX, a software that provides solution to the students related requirements.</li>
                     <li>Debugged programs by testing for and fixing errors.</li>
                                         
                 </ul>
